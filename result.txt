@@ -1,0 +1,4 @@
+Difference between old and new strategy:
+
+The difference between these two strategies is that the second one makes sure that the next step it takes is the fastest one it can take to get to
+the goal. It removes the longest path from the goal in every move that it makes.
